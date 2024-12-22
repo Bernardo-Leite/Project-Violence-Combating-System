@@ -1,0 +1,4 @@
+1.O utilizador precisa de inserir a conta e a password.
+2.Vai ser pedido a conta e a password.
+3.Informações sobre o programa.
+4.Sai do programa.

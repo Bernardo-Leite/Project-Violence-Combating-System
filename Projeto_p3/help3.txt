@@ -1,0 +1,5 @@
+1.Valida a conta dos profissionais de saúde e dos agentes de segurança
+2.Consulta todas as contas existentes
+3.Pode apagar contas dos profissionais de saúde e dos agentes
+4.Informações sobre o programa.
+5.Sai do programa

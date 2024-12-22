@@ -1,0 +1,5 @@
+1.Pode registar os crimes com nome ou em anonimato.
+2.Pode alterar o nome da conta ou a password.
+3.O servidor apaga a sua conta.
+4.Informações sobre o programa.
+5.Sai do programa

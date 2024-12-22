@@ -1,0 +1,7 @@
+5/4/2011;7:37:8;Dinamarca;Violação;Rui;
+21/4/2001;17:2:35;Wales;Assalto;Rui;
+30/10/2021;7:37:8;Wales;Assassinato;Anónimo;
+30/10/2021;18:35:51;América;Assalto;Hugo;
+3/5/2021;15:21:58;Viana;Roubo;Rui;
+6/5/2021;9:58:16;Porto;Fraude;Henrique;
+27/5/2021;17:28:13;Andorra;Roubo;Anónimo;

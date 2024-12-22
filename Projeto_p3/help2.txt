@@ -1,0 +1,12 @@
+1.Vai ter outro menu com 6 opções:
+  1.Pode consultar todos os crimes
+  2.Consultar por data
+  3.Consultar por hora
+  4.Consultar por local
+  5.Consultar por tipo
+  6.Consultar por nome da vítima
+2.Pode alterar o nome conta ou a password
+3.O servidor apaga a sua conta.
+4.Informações sobre o programa.
+5.Manda uma mensagem de SOS para um agente com o seu nome. 
+6.Sai do programa

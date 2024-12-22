@@ -1,0 +1,9 @@
+roberto;12345;PS;1;
+angelo;98765;AS;1;
+tiago;98765;PS;1;
+bruno;123456789;GS;1;
+ricardo;00000;AS;0;
+joao;mimoso;PS;0;
+henrique;11111;PS;1;
+costa;11111;PS;1;
+eric;1245;AS;0;
